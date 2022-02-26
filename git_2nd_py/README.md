@@ -1,1 +1,1 @@
-git remote add origin https://github.com/simri77/2nd_git_project.gi
+python programming is really easy i want to be a python programmer this is my starting as a programmer
